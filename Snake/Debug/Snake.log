@@ -1,0 +1,42 @@
+﻿  Game.cpp
+E:\visual_studio\repos\Snake\Snake\Game.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+E:\visual_studio\repos\Snake\Snake\Game.cpp(90,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\visual_studio\repos\Snake\Snake\Game.cpp(97,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\visual_studio\repos\Snake\Snake\Game.cpp(104,20): warning C4018: '<': signed/unsigned mismatch
+E:\visual_studio\repos\Snake\Snake\Game.cpp(131,20): warning C4018: '<': signed/unsigned mismatch
+E:\visual_studio\repos\Snake\Snake\Game.cpp(144,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\visual_studio\repos\Snake\Snake\Game.cpp(144,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\visual_studio\repos\Snake\Snake\Game.cpp(192,21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+E:\visual_studio\repos\Snake\Snake\main.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake.cpp
+E:\visual_studio\repos\Snake\Snake\Snake.cpp(100,20): warning C4018: '<': signed/unsigned mismatch
+  Running Code Analysis for C/C++...
+  Generating Code...
+  Snake.vcxproj -> E:\visual_studio\repos\Snake\Debug\Snake.exe
+E:\visual_studio\repos\Snake\Snake\Game.cpp(217): warning C26812: The enum type 'sf::PrimitiveType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+E:\visual_studio\repos\Snake\Snake\Snake.cpp(104): warning C26812: The enum type 'sf::PrimitiveType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).

@@ -1,0 +1,2 @@
+E:\visual_studio\repos\Snake\Debug\Snake.exe.lastcodeanalysissucceeded
+E:\visual_studio\repos\Snake\Snake\Debug\NativeCodeAnalysis.read.1.tlog
